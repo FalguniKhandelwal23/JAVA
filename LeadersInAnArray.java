@@ -1,4 +1,4 @@
-
+import java.io.*;
 import java.util.*;
 class LeadersInArray {
     /* Java Function to print leaders in an array */
